@@ -1,0 +1,10 @@
+1- Análisis de requisitos: en esta etapa se establecen todas y cada una de las necesidades que debe satisfacer el software sin crear contradicciones o arbitrariedades en su funcionamiento o comportamiento, en esta etapa no se debe entrar en detalle del comportamiento interno del software, con todo esto se fijara un tiempo para el desarrollo del software.
+
+2- Diseño del sistema: en esta etapa se debe crear el diseño del sistema el cual consiste en la descripción de la estructura del software y las especificaciones de lo que hará cada una de sus partes y el diseño del programa la que consiste en el diseño de los algoritmos que el software usará para cumplir con los requisitos establecidos.
+
+3- Codificación o Implementación: aquí se lleva a código fuente los algoritmos establecidos con anterioridad.
+
+4- Pruebas: en esta etapa se prueban las partes ya programadas del software para comprobar que funcionen correctamente y se ensamblan con otras partes ya programadas.
+
+5- Mantenimiento: aquí se le da mantenimiento al software para verificar que cumpla con todos los requisitos establecidos.
+

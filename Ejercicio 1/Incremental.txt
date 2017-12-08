@@ -1,0 +1,1 @@
+En la metodologia iterativa incremental el software se puede entender como mini proyectos en la cual con la realizacion de cada parte de realizan todas las etapas del ciclo de desarrolo del software, de esta manera se garantiza un resultado en un tiempo menor y con un resultado completo.
