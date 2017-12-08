@@ -1,0 +1,8 @@
+1- ¿Qué entiende como "commit"?
+    el comando que se usa para actualizar los archivos de repositorio.
+
+2- ¿Qué entiende como "merge"?
+    el comando para fusionar ramas
+
+3- ¿Cuál es la diferencia entre "Pull" y "Push"?
+    que el pull es para actualizar un repositorio al commit mas nuevo y el push es para enviar los cambio al repositorio.
